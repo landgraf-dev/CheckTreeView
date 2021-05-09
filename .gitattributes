@@ -1,0 +1,8 @@
+# Default behavior
+* text=auto
+
+# Native line endings on checkout
+*.pas text
+*.dfm text
+
+# Binary files that should not be modified
