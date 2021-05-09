@@ -1,7 +1,7 @@
 # Introduction
 This library provides an easy way to add tristate checkboxes (checked, unchecked, partial) to your existing `TTreeView` Delphi VCL control, using native Windows API (Windows Vista an up. Sorry, XP folks).
 
-![](img/CheckTreeViewSample.png)
+<img src="img/CheckTreeViewSample.png" alt="CheckTreeView sample" width="50%"/>
 
 To use it, just add the unit `CheckTreeView` to your form unit:
 
